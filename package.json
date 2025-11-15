@@ -1,6 +1,6 @@
 {
  "name": "@amodx/threads",
- "version": "0.0.31",
+ "version": "0.0.32",
  "module": "index.js",
  "types": "index.d.ts",
  "type": "module",
